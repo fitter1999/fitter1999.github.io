@@ -30,5 +30,5 @@
 
 - 黄嘉昕, 沈健 , <strong>温嘉懿</strong>, 宋智功. 一种外骨骼式遥操作与模仿学习双臂作业控制方法及系统, 发明专利，申请号：CN202410640262.8
 
-(Note:​​ Peiyi Zhu (朱培逸) is my Master's thesis advisor.)
+- (Note:​​ Peiyi Zhu (朱培逸) is my Master's thesis advisor.)
 
