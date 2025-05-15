@@ -6,7 +6,7 @@
 
 - Chengcheng Liu ,<strong>Jiayi Wen</strong>, Peiyi Zhu . Trajectory tracking control of 6-UPS type parallel robots combining RBFNN and UNDO. <strong>Journal of Mechanical Science and Technology.</strong>
 
-- 朱培逸, <strong>温嘉懿</strong></strong>，李鑫，沈然鑫，吴杰. 一种外骨骼末端倾向力检测装置、检测方法及制作方法. 发明专利，<strong>专利号：ZL202210215848.0. 授权时间：20220307</strong>
+- 朱培逸, <strong>温嘉懿</strong>，李鑫，沈然鑫，吴杰. 一种外骨骼末端倾向力检测装置、检测方法及制作方法. 发明专利，专利号：ZL202210215848.0. 授权时间：20220307
 
 - 朱培逸, <strong>温嘉懿</strong> , 李鑫, 刘成成, 沈然鑫, 沈钲敖. 调整三自由度外骨骼运动状态的多模态控制方法及外骨骼. 发明专利，专利号：ZL202310030361. X. 授权时间：20230415
 
