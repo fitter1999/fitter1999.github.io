@@ -13,3 +13,6 @@ Ph.D., Mechanical Engineering, Jiangnan University, 2024—2028 (expected).
 #### Research Interests
 Intelligent Control of Exoskeletons, Biomechanical Modeling, Embedded Robotics (Hardware/Software), Structural Design Optimization, Deep Reinforcement Learning, Human-Robot Interaction.
 
+#### Social Media Accounts
+Bilibili: https://space.bilibili.com/157459342?spm_id_from=333.788.0.0
+Xiaohongshu: https://www.xiaohongshu.com/user/profile/6769a1700000000018016570
