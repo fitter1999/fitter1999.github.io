@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/fitter1999-github-blue?logo=github)](https://github.com/fitter1999)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Ph.D. in Mechanical Engineering at the School of Mechanical Engineering, Jiangnan University, China, 2024—2028 (expected).
 
 #### Email
-sli[at]cumt.edu.cn
+fitter[at]foxmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Mechanical Engineering, Jiangnan University, 2024—2028 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Intelligent Control of Exoskeletons, Biomechanical Modeling, Embedded Robotics (Hardware/Software), Structural Design Optimization, Deep Reinforcement Learning, Human-Robot Interaction.
 
