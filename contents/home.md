@@ -5,7 +5,7 @@
 He is currently pursuing a Ph.D. in Mechanical Engineering at the School of Mechanical Engineering, Jiangnan University, China, 2024—2028 (expected).
 
 #### Email
-fitter[at]foxmail.com
+fitter@foxmail.com
 
 #### Education
 Ph.D., Mechanical Engineering, Jiangnan University, 2024—2028 (expected).
